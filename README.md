@@ -8,7 +8,7 @@ If interested in this problem please visit the LeetCode site.
 If interested in my comments I invite you to read the associated
 post in my blog at:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/02/03/shuffle-and-array-in-java/
 
 Keep in mind that the best way to learn is to read and experiemnt.
 Enjoy;
